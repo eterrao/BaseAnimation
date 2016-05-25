@@ -312,6 +312,11 @@ class IndexAdapter extends SimpleAdapter implements SectionIndexer{
 		}
 
 		@Override
+		public Uri getNotificationUri() {
+			return null;
+		}
+
+		@Override
 		public boolean getWantsAllOnMoveCalls() {
 			// TODO Auto-generated method stub
 			return false;

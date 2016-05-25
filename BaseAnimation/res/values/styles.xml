@@ -1,33 +1,31 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
     <!--
         Base application theme, dependent on API level. This theme is replaced
-        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
     -->
     <style name="AppBaseThemes" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
-    </style>
-
-    <style name="AppBaseThemes" parent="android:Theme.Light">
-        <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
+            backward-compatibility can go here.
         -->
     </style>
 
     <!--
         Base application theme, dependent on API level. This theme is replaced
-        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
-    --><style name="AppBaseTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
         <!--
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
+            backward-compatibility can go here.
+
+
+
+
+
         -->
     </style>
 
@@ -132,7 +130,8 @@
 
     <style name="progressBarHorizontal_indeter" parent="android:Widget.ProgressBar.Horizontal">
         <item name="android:indeterminateOnly">false</item>
-        <item name="android:indeterminateDrawable">@drawable/progress_indeterminate_horizontal</item>
+        <item name="android:indeterminateDrawable">@drawable/progress_indeterminate_horizontal
+        </item>
         <item name="android:minHeight">5dip</item>
         <item name="android:maxHeight">5dip</item>
     </style>
@@ -144,7 +143,7 @@
         <item name="android:windowBackground">@color/bocop_dialog_bg</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsTranslucent">true</item>
-        <item name="android:windowAnimationStyle">@+android:style/Animation.Dialog</item>
+        <!--<item name="android:windowAnimationStyle">@+android:style/Animation.Dialog</item>-->
     </style>
     <!-- Loding_dialog样式End -->
 
@@ -160,9 +159,12 @@
     <!-- GViewPager的Start -->
     <style name="radioButton">
         <item name="android:layout_width">100dp</item>
-//每一个的宽度        <item name="android:layout_height">fill_parent</item>
-//高度        <item name="android:layout_weight">1.0</item>
-//比重        <item name="android:padding">10dp</item>
+        //每一个的宽度
+        <item name="android:layout_height">fill_parent</item>
+        //高度
+        <item name="android:layout_weight">1.0</item>
+        //比重
+        <item name="android:padding">10dp</item>
         <item name="android:gravity">center</item>
         <item name="android:button">@null</item>
     </style>
@@ -226,13 +228,13 @@
         <item name="android:background">?android:listChoiceBackgroundIndicator</item>
     </style>
     <!-- Notification通知样式 结束 -->
-    
-     <style name="ActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+
+    <style name="ActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse" tools:targetApi="ice_cream_sandwich">
         <item name="android:icon">@drawable/tab_pagertab_ic_launcher_actionbar</item>
         <item name="android:background">#FF666666</item>
     </style>
-    
-      <style name="FixedHeightBox">
+
+    <style name="FixedHeightBox">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:minHeight">@dimen/demo_view_height</item>

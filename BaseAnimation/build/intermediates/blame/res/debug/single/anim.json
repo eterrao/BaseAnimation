@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/scale_translate.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/scale_translate.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/umeng_socialize_shareboard_animation_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/welcome_fade_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/welcome_fade_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/my_scale_action.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/my_scale_action.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/my_alpha_action.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/my_alpha_action.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/right_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/right_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/mi_laucher_alpha.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/mi_laucher_alpha.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/mi_laucher_del_done.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/mi_laucher_del_done.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/welcome_fade_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/welcome_fade_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/grow_from_top.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/grow_from_top.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/gallery_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/gallery_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/layout_small_2_big.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/layout_small_2_big.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/drawroll_ani_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/drawroll_ani_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/push_left_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/push_left_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/slide_down_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/slide_down_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/mi_laucher_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/mi_laucher_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/out_translate_top.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/out_translate_top.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/in_scale_x.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/in_scale_x.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/pophidden_anim.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/pophidden_anim.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/right_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/right_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/mi_laucher_del_up.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/mi_laucher_del_up.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/push_up_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/push_up_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/appear_bottom_right_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/appear_bottom_right_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/umeng_fb_slide_out_from_right.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/umeng_fb_slide_out_from_right.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/alpha_translate.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/alpha_translate.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/unzoom_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/unzoom_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/translate.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/translate.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/appear_top_left_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/appear_top_left_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/path2_rotate_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/path2_rotate_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/path2_rotate_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/path2_rotate_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/left_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/left_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/hyperspace_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/hyperspace_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/a2.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/a2.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/disappear_bottom_right_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/disappear_bottom_right_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/drawroll_ani_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/drawroll_ani_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/animator.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/animator.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/rbm_out_to_left.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/rbm_out_to_left.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/scale_translate_rotate.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/scale_translate_rotate.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/flip_vertical_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/flip_vertical_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/mi_laucher_del_down.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/mi_laucher_del_down.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/left_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/left_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/umeng_socialize_slide_in_from_bottom.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/slide_right.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/slide_right.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/mi_laucher_scale_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/mi_laucher_scale_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/a1.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/a1.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/menu_up.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/menu_up.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/wave_scale.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/wave_scale.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/alpha.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/alpha.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/slide_down_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/slide_down_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/block_move_right.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/block_move_right.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/fade.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/fade.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/slide_up_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/slide_up_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/slide_left.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/slide_left.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/mi_laucher_grid_light.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/mi_laucher_grid_light.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/welcome_fade_in_scale.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/welcome_fade_in_scale.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/scale.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/scale.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/fadein.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/flip_horizontal_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/flip_horizontal_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/refreshable_list_rotate.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/refreshable_list_rotate.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/wave_timer_loading.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/wave_timer_loading.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/myown_design.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/myown_design.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/hold.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/hold.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/umeng_fb_slide_in_from_left.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/umeng_fb_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/umeng_fb_slide_out_from_left.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/umeng_fb_slide_out_from_left.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/alpha_scale.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/alpha_scale.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/alpha_scale_translate_rotate.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/alpha_scale_translate_rotate.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/scale_rotate.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/scale_rotate.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/unzoom_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/unzoom_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/push_left_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/push_left_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/alpha_translate_rotate.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/alpha_translate_rotate.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/appear_bottom_right_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/appear_bottom_right_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/hyperspace_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/hyperspace_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/umeng_socialize_shareboard_animation_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/umeng_fb_slide_in_from_right.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/umeng_fb_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/disappear_bottom_right_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/disappear_bottom_right_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/push_up_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/push_up_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/color_animator.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/color_animator.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/umeng_socialize_fade_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/zoom_exit.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/zoom_exit.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/umeng_socialize_fade_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/flip_horizontal_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/flip_horizontal_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/disappear_top_left_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/disappear_top_left_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/flip_vertical_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/flip_vertical_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/rotate.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/alpha_rotate.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/alpha_rotate.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/animator_set.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/animator_set.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/myanimation_set.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/myanimation_set.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/shrink_from_bottom.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/shrink_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/alpha_scale_translate.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/alpha_scale_translate.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/translate_rotate.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/translate_rotate.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/mi_laucher_scale_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/mi_laucher_scale_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/appear_top_left_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/appear_top_left_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/object_animator.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/object_animator.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/popshow_anim.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/popshow_anim.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/small_2_big.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/small_2_big.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/umeng_socialize_slide_out_from_bottom.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/zoom_enter.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/zoom_enter.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/rbm_in_from_left.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/rbm_in_from_left.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/disappear_top_left_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/disappear_top_left_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/olympic_alpha_in2.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/olympic_alpha_in2.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/alpha_scale_rotate.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/alpha_scale_rotate.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/in_translate_top.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/in_translate_top.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/anim/alpha_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/anim/alpha_in.xml"
+    }
+]

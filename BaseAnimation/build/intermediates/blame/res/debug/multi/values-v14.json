@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    }
+]

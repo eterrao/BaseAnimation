@@ -20,29 +20,29 @@
 <resources>
 
     <color name="transparentBlack">#6D000000</color>
-    <color name="white">#FFFFFF</color>
-    <color name="darkgrey">#949494</color>
-    <color name="red">#FF0000</color>
-    <color name="green">#00FF00</color>
-    <color name="gray_2">#CCCCCC</color>
-    <color name="gray">#D9D9D9</color>
-    <color name="darkgray">#969696</color>
-    <color name="black">#000000</color>
-    <color name="darkblue">#0000AA</color>
-    <color name="blue">#1E90FF</color>
-    <color name="red">#FF0000</color>
+    <!--<color name="white">#FFFFFF</color>-->
+    <!--<color name="darkgrey">#949494</color>-->
+    <!--<color name="red">#FF0000</color>-->
+    <!--<color name="green">#00FF00</color>-->
+    <!--<color name="gray_2">#CCCCCC</color>-->
+    <!--<color name="gray">#D9D9D9</color>-->
+    <!--<color name="darkgray">#969696</color>-->
+    <!--<color name="black">#000000</color>-->
+    <!--<color name="darkblue">#0000AA</color>-->
+    <!--<color name="blue">#1E90FF</color>-->
+    <!--<color name="red">#FF0000</color>-->
 
     <!-- 自定义Gallery+ListView页面用到的颜色Start -->
-    <color name="white">#ffffffff</color>
-    <color name="alpha">#00000000</color>
-    <color name="black">#ff000000</color>
-    <color name="blue">#ff0000ff</color>
-    <color name="green">#ff00ff00</color>
-    <color name="red">#ffff0000</color>
+    <!--<color name="white">#ffffffff</color>-->
+    <!--<color name="alpha">#00000000</color>-->
+    <!--<color name="black">#ff000000</color>-->
+    <!--<color name="blue">#ff0000ff</color>-->
+    <!--<color name="green">#ff00ff00</color>-->
+    <!--<color name="red">#ffff0000</color>-->
     <color name="higtlight">#ff0078f0</color>
     <color name="durationtext">#ff7d7d7d</color>
-    <color name="background">#ffc3ddea</color>
-    <color name="yellow">#ffffcc00</color>
+    <!--<color name="background">#ffc3ddea</color>-->
+    <!--<color name="yellow">#ffffcc00</color>-->
     <color name="title">#ff274462</color>
     <color name="textColor">#825f4b</color>
     <color name="texttitlecolor">#f4ae00</color>
@@ -61,7 +61,7 @@
     <color name="bocop_dialog_bg">#77000000</color>
     <!-- 自定义Loding_Dialog_End -->
 
-    <color name="white">#FFFFFF</color>
+    <!--<color name="white">#FFFFFF</color>-->
     <!-- 白色 -->
     <color name="ivory">#FFFFF0</color>
     <!-- 象牙色 -->
@@ -95,13 +95,13 @@
     <!-- 纳瓦白 -->
     <color name="peachpuff">#FFDAB9</color>
     <!-- 桃色 -->
-    <color name="gold">#FFD700</color>
+    <!--<color name="gold">#FFD700</color>-->
     <!-- 金色 -->
     <color name="pink">#FFC0CB</color>
     <!-- 粉红色 -->
     <color name="lightpink">#FFB6C1</color>
     <!-- 亮粉红色 -->
-    <color name="orange">#FFA500</color>
+    <!--<color name="orange">#FFA500</color>-->
     <!-- 橙色 -->
     <color name="lightsalmon">#FFA07A</color>
     <!-- 亮肉色 -->
@@ -121,7 +121,7 @@
     <!-- 紫红色 -->
     <color name="magenta">#FF00FF</color>
     <!-- 红紫色 -->
-    <color name="red">#FF0000</color>
+    <!--<color name="red">#FF0000</color>-->
     <!-- 红色 -->
     <color name="oldlace">#FDF5E6</color>
     <!-- 老花色 -->
@@ -249,7 +249,7 @@
     <!-- 亮天蓝色 -->
     <color name="skyblue">#87CEEB</color>
     <!-- 天蓝色 -->
-    <color name="gray">#808080</color>
+    <!--<color name="gray">#808080</color>-->
     <!-- 灰色 -->
     <color name="grey">#808080</color>
     <!-- 灰色 -->
@@ -339,11 +339,11 @@
     <!-- 暗青色 -->
     <color name="teal">#008080</color>
     <!-- 水鸭色 -->
-    <color name="green">#008000</color>
+    <!--<color name="green">#008000</color>-->
     <!-- 绿色 -->
     <color name="darkgreen">#006400</color>
     <!-- 暗绿色 -->
-    <color name="blue">#0000FF</color>
+    <!--<color name="blue">#0000FF</color>-->
     <!-- 蓝色 -->
     <color name="mediumblue">#0000CD</color>
     <!-- 中兰色 -->
@@ -351,7 +351,7 @@
     <!-- 暗蓝色 -->
     <color name="navy">#000080</color>
     <!-- 海军色 -->
-    <color name="black">#000000</color>
+    <!--<color name="black">#000000</color>-->
     <!-- 黑色 -->
 
 

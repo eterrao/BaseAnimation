@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/BaseAnimation/BAnim_FilpLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="87398660321a574a2da090c49730fec5b18a1751">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/BaseAnimation-BAnim_FilpLibrary-unspecified_3ed1f99dae2da829b45ce08dcbb03b26e49c7309.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/jpush-sdk-release1.5.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="817cdc694d4820b9cedab7f5b21c7dbe0fdbcf1f">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/jpush-sdk-release1.5.6_10ce7b2223f8ea4ac6591ebd9500ba28e23d9b48.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.6-with-sources_dffe54cae2606605d94ea8f08f9595eb68e77040.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/picasso-2.3.2_a581d22a2e04b760008b787f7f4a1cc0f54f92d1.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_2_9fc225cc26182f8079d2de58dcc0d8cd617a39e2.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="914dcfbf5e1184bbfa58f4aceb1559f6b8991636">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/umeng_social_sdk_8759c72199a58b3a5e410ec472ddf94fc1fc20fa.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/casee-ad-sdk-2.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd21245678ec087842d7cdeee6c4acbafa629893">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/casee-ad-sdk-2.6_a0b088787f1637279159f2ae7ccb6716d2fa8adf.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/httpmime-4.1.3_380d71392fa7f62eb0618e188ad1093073d47888.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/BaseAnimation/BAnim_ListViewLibrary/unspecified/jars/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="abc45b34f94283d0cba95b51bed513a55debed69">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_83682c86636eeb10f0c8ba0284b33043f8f62525.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/BaseAnimation/BAnim_ListViewLibrary/unspecified/jars/libs/stickylistheaders_lib.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93f700403afae1858c5e96bdc726b90015342ae5">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/stickylistheaders_lib_28b9a504628a7d5121949ffc20bf4d206efd4636.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/BaseAnimation/BAnim_ListViewLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="512ee18859591c33e6f409b012afdd50e4049335">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/BaseAnimation-BAnim_ListViewLibrary-unspecified_af4ebf034891f68d305266bce902fefe17d507c5.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/SocialSDK_WeiXin.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a5f20a9010df32cb73db28ec33964ed8b4c503cc">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_14f0aa76a0c201acff16dff7486ae6eeeeb3ff0b.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_2ed4025a65898ddca580b03c46bde09eeff02487.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/android-support-v7-appcompat.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b2d9f83181635731db297fd7c59a9049c5ccbffd">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/android-support-v7-appcompat_41ac310b9e6eb098ce09a8c5a3a9298c826e32b6.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_2_3ee81b6d2cc62aae04f47328fe994698f16ba8da.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/umeng_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="653c94cb79c8cc409b308c49e21581fe07292ce2">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/umeng_sdk_787e9e08f9a7f56a4f833e755b1d68cbc6de2b28.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/fluffy-commons-1.0.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7c34a3a19cc203c823cb822bf5bb7ca48956509f">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/fluffy-commons-1.0.9_f8a5c374949546cc9f8ccb62530a4ab3d08832a8.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_1_4d615f20b3bd0acdfc0b3da383404f8419acf369.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_1d81e80d1920d6f8f604175b7da1806b9f90b299.jar" />
+    </item>
+    <item
+        jar="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="48959cea0169c9c7f4b3822fcd7b168cdba3994b">
+        <dex dex="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_1_0b211bb8f53c764c3824ca8d836635a27c318198.jar" />
+    </item>
+
+</items>

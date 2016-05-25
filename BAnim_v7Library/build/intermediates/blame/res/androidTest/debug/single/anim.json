@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/build/intermediates/bundles/debug/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/build/intermediates/bundles/debug/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/build/intermediates/bundles/debug/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/build/intermediates/bundles/debug/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/build/intermediates/bundles/debug/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/build/intermediates/bundles/debug/res/anim/abc_slide_in_top.xml"
+    }
+]

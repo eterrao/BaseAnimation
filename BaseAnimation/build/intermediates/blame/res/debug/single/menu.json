@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/menu/activity_listview_delete_left_menu.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/menu/activity_listview_delete_left_menu.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/menu/optionsmenu.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/menu/optionsmenu.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/menu/tab_paralloid__home.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/menu/tab_paralloid__home.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/menu/ribbon_menu.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/menu/ribbon_menu.xml"
+    },
+    {
+        "merged": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/build/intermediates/res/merged/debug/menu/menu_expandablelistitem.xml",
+        "source": "/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BaseAnimation/res/menu/menu_expandablelistitem.xml"
+    }
+]

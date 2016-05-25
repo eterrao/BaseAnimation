@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/raomengyang/work/MyProjects/BaseAnimation/BaseAnimation/BAnim_v7Library/build-types/debug/shaders"/></dataSet></merger>
